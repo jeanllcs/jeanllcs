@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jeanllcs
+- 👀 I’m interested in games and development.
+- 🌱 I’m currently learning Js,HTML and CSS.
